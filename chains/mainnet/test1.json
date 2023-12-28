@@ -1,0 +1,20 @@
+{
+  "chain_name": "test1",
+  "registry_name": "cosmoshub",
+  "api": ["http://localhost:1317"],
+  "rpc": ["http://localhost:26657"],
+  "sdk_version": "0.45.1",
+  "coin_type": "118",
+  "min_tx_fee": "800",
+  "addr_prefix": "test2",
+  "logo": "/logos/cosmos.svg",
+  "assets": [
+    {
+      "base": "uatom",
+      "symbol": "ATOM",
+      "exponent": "6",
+      "coingecko_id": "cosmos",
+      "logo": "/logos/cosmos.svg"
+    }
+  ]
+}
